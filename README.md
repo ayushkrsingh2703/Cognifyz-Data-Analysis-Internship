@@ -11,14 +11,14 @@ Data Analysis Internship tasks at Cognifyz Technologies.
 | Task 3 | Price Range Distribution |
 | Task 4 | Online Delivery Analysis |
 
-## Level 2 - In Progress 🚧
+## Level 2 - ✅ Completed 
 
 | Task | Description | Status |
 | :--- | :--- | :--- |
 | Task 1 | Restaurant Analysis | ✅ Completed |
 | Task 2 | Cuisine Combination Analysis | ✅ Completed |
-| Task 3 | Geographic Analysis | ⏳ Pending |
-| Task 4 | Restaurant Chains Analysis | ⏳ Pending |
+| Task 3 | Geographic Analysis | ✅ Completed  |
+| Task 4 | Restaurant Chains Analysis |✅ Completed  |
 
 ## Tools Used
 Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
